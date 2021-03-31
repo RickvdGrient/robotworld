@@ -1,0 +1,6 @@
+robotworld-Lidar.o: ../../src/Lidar.cpp /usr/include/stdc-predef.h \
+ ../../src/Lidar.hpp
+
+/usr/include/stdc-predef.h:
+
+../../src/Lidar.hpp:
